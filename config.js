@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: 'https://victorkiambi.github.io/'
     },
     {
       label: 'Contact me',
