@@ -10,7 +10,8 @@ description: This beginners guide aims to assist you in building and deploying a
 category: Docker, Node
 tags:
   - Docker
-  - Nodde
+  - Node
+  - Express
 ---
 Docker enables us to avoid the ‘its working on my machine’ pit-hole. It packages our application into a sort of box or in other words, container. You can easily run this container in any machine with its contents, i.e environments intact.
 
