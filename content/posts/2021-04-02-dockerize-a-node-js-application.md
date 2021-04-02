@@ -3,7 +3,7 @@ template: post
 title: Dockerize a Node Js Application
 slug: docker-node
 socialImage: /media/docker-node.png
-draft: true
+draft: false
 date: 2021-04-02T03:57:43.938Z
 description: This beginners guide aims to assist you in building and deploying a
   simple Node Js application image.
